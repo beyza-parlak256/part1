@@ -1,0 +1,10 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# İstemediğimiz dosyaların adını buraya yazabiliriz
+bin/*
+
+# Ignore Gradle build output directory
+build
+
+
